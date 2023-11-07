@@ -43,7 +43,7 @@ make run-migrations
 ### Running the tests
 
 ```bash
-make runs-tests
+make run-tests
 ```
 
 ### Running the application
