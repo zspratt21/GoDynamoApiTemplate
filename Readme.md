@@ -58,7 +58,7 @@ make start-containers
 The example api is a simple CRUD api for colors. It has the following endpoints:
 
 - GET /colors - Returns all colors
-- GET /colors/:id - Returns a color by id
+- GET /colors/:name - Returns a color by name
 - POST /colors - Creates a new color
-- PUT /colors/:id - Updates a color by id
-- DELETE /colors/:id - Deletes a color by id
+- PUT /colors/:name - Updates a color by name
+- DELETE /colors/:name - Deletes a color by name
